@@ -1,4 +1,4 @@
-# CTF Solutions & Write-ups
+# CTF Solutions &amp; Write-ups
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Platform](https://img.shields.io/badge/Platform-CTF-blue.svg)
@@ -25,36 +25,20 @@ It may contain:
 
 ### Platforms
 
-- OverTheWire
-- TryHackMe
-- W3Challs
-- Pico Gym
-- DreamHack
+- Dreamhack
 - HackTheBox
-- HackMyVM
+- TryHackMe
+- CyberDefense
+- Let's Defense
+- [Reversing.kr](http://Reversing.kr)
+- [crackme.one](http://crackme.one)
+- [Mobliehacking.kr](http://Mobliehacking.kr)
+- MemLab
+- PortSwagger
+- Lord of SQLI(LOS)
+- [Webhacking.kr](http://Webhacking.kr)
 
-### Certs
+- [pwnable.kr](http://pwnable.kr)
+- 
 
-- HackTheBox CPTS
-
-### CTF Competitions 2026
-
-- VSL CTF 2026
-- EHAX CTF 2026
-- UTCTF 2026
-- Pico CTF 2026
-- UMass CTF 2026
-
-### CTF Competitions 2025
-
-- Crew CTF 2025
-- Iran Tech Olympic CTF 2025
-- SunShine CTF 2025
-- WannaGame FreshMan CTF 2025
-- QnQSec CTF 2025
-- Patriot CTF 2025
-- WannaGame Championship 2025
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+### This project is licensed under the [MIT License](LICENSE).
