@@ -14,7 +14,7 @@ My personal archive of **CTF** and wargame challenges I've solved — with reaso
 
 | Platform | Focus |
 |:---------|:------|
-| [DreamHack](https://dreamhack.io) | All-round (KR) |
+| [DreamHack](https://github.com/fixgramwork/write-up/tree/main/PLATFORM/Dreamhack) | All-round (KR) |
 | [HackTheBox](https://www.hackthebox.com) | Machines / All-round |
 | [TryHackMe](https://tryhackme.com) | Learning paths |
 | [CyberDefenders](https://cyberdefenders.org) | Blue team / DFIR |
