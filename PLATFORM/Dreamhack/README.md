@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../../assets/images/orca-paste-1792289234222-d2fdd5aa-5892-4128-823c-f48f8857e591.png" alt="Dreamhack" />
+<img src="../../assets/images/orca-paste-1792289234222-d2fdd5aa-5892-4128-823c-f48f8857e591.png" alt="Dreamhack" width="360" />
 
 # Dreamhack Write-ups
 
